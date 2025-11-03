@@ -6,24 +6,24 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Raiany Morais Ribeiro
+- Matricula:904582
+- Proposta de projeto escolhida: Pessoas e produções
+- Breve descrição sobre seu projeto:Meu projeto é sobre um jovem artista negro chamado Jean Michael Basquiat, que morreu por overdose de mistura de drogas aos 27 anos, sua obra mais cara foi vendida por 110,5 milhões de dorles, suas obras criticavam o racismo e a desigualdade social.
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+<< COLOQUE A IMAGEM GET AQUI >>(img/print 1.png)
 
-<< COLOQUE A IMAGEM POST AQUI >>
+<< COLOQUE A IMAGEM POST AQUI >>(img/print 3.png)
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+<< COLOQUE A IMAGEM PUT AQUI >> (img/print 4.png)
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+<< COLOQUE A IMAGEM DELETE AQUI >>(img/print 5.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >>(img/print 6.png)
 
 ## **Orientações Gerais**
 

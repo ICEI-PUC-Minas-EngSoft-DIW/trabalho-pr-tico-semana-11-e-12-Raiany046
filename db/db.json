@@ -29,14 +29,11 @@
       "imagem": "img/passaro.jpg"
     },
     {
-      "id": "d92e"
-    },
-    {
-      "id": "39d2",
-      "titulo": "Nova Obra",
-      "descricao": "Teste de cadastro",
-      "conteudo": "Conteúdo de teste",
-      "imagem": "img/nova.jpg"
+      "id": "9956",
+      "titulo": "caveira dourada",
+      "descricao": "caveira dourada é uma pintura basquiat",
+      "conteudo": "caveira dourada ",
+      "imagem": "https://www.valuehost.com.br/blog/wp-content/uploads/2023/07/valuesoftsistemas_valuehosthospedagem_image_737.jpeg.webp"
     }
   ]
 }
